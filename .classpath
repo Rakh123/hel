@@ -5,8 +5,8 @@
 	<classpathentry kind="lib" path="/home/nageswararao/Downloads/jar_files (1)/java-json.jar.zip"/>
 	<classpathentry kind="lib" path="/home/nageswararao/Downloads/jar_files (1)/java-json.jar"/>
 	<classpathentry kind="lib" path="/home/nageswararao/Downloads/jar_files (1)/mysql-connector-java-5.1.47.jar"/>
-	<classpathentry kind="lib" path="/home/nageswararao/Downloads/itextpdf-5.1.0.jar"/>
 	<classpathentry kind="lib" path="/home/nageswararao/Downloads/jar_files (1)/log4j-1.2.17.jar"/>
 	<classpathentry kind="lib" path="/home/nageswararao/Downloads/jar_files (1)/Tess4J-3.4.8-src/Tess4J/dist/tess4j-3.4.8.jar"/>
+	<classpathentry kind="lib" path="/home/nageswararao/Downloads/jar_files (1)/itextpdf-5.1.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
